@@ -1,6 +1,6 @@
 # Privacy Policy for Koratna
 
-Effective date: May 28, 2026
+Effective date: July 19, 2026
 
 Koratna is a GCC football player ratings app developed by Hamam A. Alabdulla. This Privacy Policy explains what information the app collects, how it is used, and the choices available to you.
 
@@ -13,7 +13,7 @@ Koratna does not require you to create an account with your name, email address,
 We may collect or process the following information:
 
 - Anonymous user identifiers, including Firebase anonymous authentication IDs and app-generated device identifiers stored locally in the iOS Keychain.
-- Rating submissions, including the player being rated, rating attribute values, timestamps, season information where applicable, and limited player context needed to process the rating.
+- Rating submissions, including the player being rated, rating attribute values, optional comments, timestamps, season information where applicable, and limited player context needed to process the rating.
 - App usage and product interaction data, such as screens viewed, searches, filters, rating flow events, paywall views, ad events, language selection, and general app navigation.
 - Subscription and purchase metadata, such as StoreKit product identifiers, transaction identifiers, subscription status, restore events, and purchase success or failure status. Payment card details are handled by Apple and are not received by Koratna.
 - Advertising and consent data, including whether ads can be requested, ad impressions and errors, consent choices, and advertising identifiers where allowed by your iOS settings and App Tracking Transparency choice.
@@ -73,6 +73,8 @@ We do not sell your personal information. We share or make information available
 - Comply with legal obligations, enforce our rights, prevent fraud, or protect users and the service.
 - Publish aggregated or non-identifying football rating statistics, rankings, and app metrics.
 
+We require service providers that process information on our behalf to use appropriate safeguards and provide protection consistent with this policy and applicable law.
+
 ## Data Retention
 
 We keep information only as long as reasonably needed for the purposes described in this policy.
@@ -116,4 +118,4 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 For privacy questions or requests, contact:
 
 Hamam A. Alabdulla  
-Email: support@koratna.app
+Email: hamam@gccapp.com

@@ -6,4 +6,4 @@ Public privacy policy repository for Koratna.
 - English policy: `privacy-policy.md`
 - Arabic policy: `privacy-policy-ar.md`
 
-Last updated: May 28, 2026.
+Last updated: July 19, 2026.
