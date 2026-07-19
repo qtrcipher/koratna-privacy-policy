@@ -2,8 +2,8 @@
 
 Public privacy policy repository for Koratna.
 
-- Web page: `index.html`
-- English policy: `privacy-policy.md`
-- Arabic policy: `privacy-policy-ar.md`
+- Combined page: https://qtrcipher.github.io/koratna-privacy-policy/
+- English: https://qtrcipher.github.io/koratna-privacy-policy/en/
+- العربية: https://qtrcipher.github.io/koratna-privacy-policy/ar/
 
 Last updated: July 19, 2026.
