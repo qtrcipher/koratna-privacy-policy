@@ -2,7 +2,7 @@
 layout: policy
 title: Koratna Privacy Policy
 lang: en
-dir: ltr
+text_direction: ltr
 alternate_lang: ar
 alternate_path: ../ar/
 alternate_label: العربية

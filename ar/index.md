@@ -2,7 +2,7 @@
 layout: policy
 title: سياسة الخصوصية لتطبيق كورتنا
 lang: ar
-dir: rtl
+text_direction: rtl
 alternate_lang: en
 alternate_path: ../en/
 alternate_label: English
