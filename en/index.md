@@ -14,7 +14,7 @@ language_navigation_label: Language
 
 Effective date: July 19, 2026
 
-Koratna is a GCC football player ratings app developed by Hamam A. Alabdulla. This Privacy Policy explains what information the app collects, how it is used, and the choices available to you.
+Koratna is a GCC football player ratings app developed by Hamam Alabdulla. This Privacy Policy explains what information the app collects, how it is used, and the choices available to you.
 
 If you do not agree with this Privacy Policy, please do not use Koratna.
 
@@ -129,5 +129,5 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 For privacy questions or requests, contact:
 
-Hamam A. Alabdulla<br>
+Hamam Alabdulla<br>
 Email: hamam@gccapp.com
